@@ -1,0 +1,21 @@
+/*.w3-display-container{position:relative}.w3-tooltip .w3-text{display:none}.w3-tooltip:hover .w3-text{display:inline-block}*/
+.display-container {
+	position: relative;
+	display: none;
+	display: inline;
+}
+
+/*.w3-display-bottomleft{position:absolute;left:0;bottom:0}.w3-display-bottomright{position:absolute;right:0;bottom:0}*/
+/*.display-bottomleft {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+
+}
+.display-bottomright {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.w3-half{width:49.99999%}.w3-col.m7{width:58.33333%}.w3-col.m8,.w3-twothird{width:66.66666%}
+*/
